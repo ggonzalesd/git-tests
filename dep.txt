@@ -1,4 +1,4 @@
 dep1: superdata
-dep2: no data
+dep2: new data
 dep3: a data
 dep4: xd data
